@@ -48,4 +48,4 @@ http://localhost:3000
 ```
 
 
-<div align="center"> Made with ❤️ by Thiago Gonçalves (Soulkaku) | ✉️ tangogitlab@gmail.com  </div> 
+<div align="center"> Made with ❤️ by Thiago Gonçalves (ThiagoGont) | ✉️ hellothigo.dev@gmail.com  </div> 
